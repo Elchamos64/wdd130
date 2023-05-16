@@ -7,6 +7,7 @@ footer p {
 }
 h1 {
     margin: 50px auto;
+    text-align: center;
 }
 p {
     margin: 50px auto;
@@ -21,7 +22,9 @@ a {
 }
 body {
     margin: 0;
+    text-align: center;
 }
 img {
     border: 4px solid steelblue;
+    margin: 0 auto;
 }
