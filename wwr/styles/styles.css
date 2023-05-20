@@ -106,6 +106,9 @@ footer .social img{
 .logo{
     width: 80px;
 }
+.logo img{
+    width: 80px; 
+}
 .icon{
     width: 80px;
     padding-top: 10px;
