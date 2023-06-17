@@ -228,7 +228,33 @@ footer .social img{
     transform: scale(1.1);
 }
 
+/* River's Css */
 
+.card{
+    width:100%;
+    border: 10px solid #14213d;
+    transition: transform .5s;
+    box-shadow: 5px 5px 10px #6f7364;
+}
+
+.content2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+/*
+#box {
+    width: 100%;
+    height: 0px;
+    background: #14213d;
+    transition: height 2s;
+}
+
+#box:hover{
+    color:white;
+    height: 100%;
+}
+*/
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
